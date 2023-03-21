@@ -12,15 +12,15 @@
             "required": true
         },
         "BOT_TOKEN": {
-            "description": "Your bot token.",
+            "description": "5954422781:AAEY0ZzUfr7-eZ8rfJVaNoIuspouYii8hKQ.",
             "required": true
         },
         "API_ID": {
-            "description": "Get this value from https://my.telegram.org",
+            "description": "20512950",
             "required": true
         },
         "API_HASH": {
-            "description": "Get this value from https://my.telegram.org",
+            "description": "ce41725d7763ccb171d31f381cb8bed9",
             "required": true
         },
         "CHANNELS": {
@@ -28,7 +28,7 @@
             "required": false
         },
         "ADMINS": {
-            "description": "Username or ID of Admin. Separate multiple Admins by space.",
+            "description": "1418931632.",
             "required": true
         },
         "SHORT_API": {
@@ -44,7 +44,7 @@
             "required": false
         },
         "LOG_CHANNEL": {
-            "description": "Bot Logs,Give a channel id with -100xxxxxxx",
+            "description": "-1001866541405",
             "required": true                              
         },
         "AUTH_CHANNEL": {
@@ -62,7 +62,7 @@
             "required": false
         },
         "DATABASE_URI": {
-            "description": "mongoDB URI.",
+            "description": "mongodb+srv://fkissuperman343:Iam@975536@cluster0.5rthyid.mongodb.net/?retryWrites=true&w=majority.",
             "required": true
         },
         "DATABASE_NAME": {
